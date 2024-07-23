@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-07-23T13:00:04.299740
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-07-23T14:00:05.332350
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -16,6 +16,7 @@
 23.92.5.240/30,US,US-TX,Dallas,
 23.92.5.244/30,US,US-TX,Dallas,
 23.92.8.4/30,US,US-NC,Charlotte,
+23.92.8.20/30,US,US-MA,Everett,
 23.92.12.0/28,US,US-TX,Houston,
 23.92.12.16/30,US,US-TX,Dallas,
 23.92.12.32/29,US,US-TX,Waller,
