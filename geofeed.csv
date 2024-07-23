@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-07-23T07:00:04.274569
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-07-23T08:00:05.193916
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -11,7 +11,6 @@
 23.92.1.8/30,US,US-TX,Houston,
 23.92.1.32/30,US,US-NC,Charlotte,
 23.92.5.108/31,US,US-TX,Somerville,
-23.92.5.132/30,US,US-TX,College Station,
 23.92.5.160/28,US,US-TX,College Station,
 23.92.5.176/28,US,US-TX,College Station,
 23.92.5.240/30,US,US-TX,Dallas,
