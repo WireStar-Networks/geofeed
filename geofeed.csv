@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-09-06T15:00:05.100846
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-09-06T16:00:04.762582
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -10,6 +10,16 @@
 23.92.1.4/30,US,US-TX,Houston,
 23.92.1.8/30,US,US-TX,Houston,
 23.92.1.32/30,US,US-NC,Charlotte,
+23.92.1.128/31,US,US-TX,Hudson Oaks,
+23.92.1.130/31,US,US-TX,Fort Worth,
+23.92.1.132/31,US,US-TX,Lewisville,
+23.92.1.134/31,US,US-TX,Austin,
+23.92.1.136/31,US,US-TX,San Antonio,
+23.92.1.138/31,US,US-TX,Austin,
+23.92.1.140/31,US,US-TX,Austin,
+23.92.1.142/31,US,US-TX,Spring,
+23.92.1.144/31,US,US-TX,Austin,
+23.92.1.146/31,US,US-TX,Houston,
 23.92.5.108/31,US,US-TX,Somerville,
 23.92.5.160/28,US,US-TX,College Station,
 23.92.5.176/28,US,US-TX,College Station,
@@ -40,7 +50,10 @@
 23.92.13.128/29,US,US-TX,College Station,
 23.92.13.136/29,US,US-TX,Austin,
 23.92.13.152/31,US,US-TX,College Station,
+23.92.13.154/31,US,US-TX,College Station,
 23.92.13.208/28,US,US-TX,College Station,
+23.92.13.228/31,US,US-TX,College Station,
+23.92.13.230/31,US,US-TX,Somerville,
 23.92.13.232/29,US,US-TX,Hudson Oaks,
 23.92.13.240/29,US,US-TX,College Station,
 23.92.15.8/30,US,US-TX,College Station,
