@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-09-23T07:00:05.017667
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-09-23T08:00:05.307961
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -14,6 +14,7 @@
 23.92.1.38/31,US,US-TX,Leander,
 23.92.1.64/30,US,US-GA,Fairburn,
 23.92.1.94/31,US,US-TX,Princeton,
+23.92.1.96/31,US,US-TX,Sherman,
 23.92.1.128/31,US,US-TX,Hudson Oaks,
 23.92.1.130/31,US,US-TX,Fort Worth,
 23.92.1.132/31,US,US-TX,Lewisville,
