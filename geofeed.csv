@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-10-01T09:00:04.684221
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-10-01T10:00:05.626004
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -13,6 +13,7 @@
 23.92.1.36/31,US,US-TX,Austin,
 23.92.1.38/31,US,US-TX,Leander,
 23.92.1.64/30,US,US-GA,Fairburn,
+23.92.1.84/31,US,US-TX,San Marcos,
 23.92.1.94/31,US,US-TX,Princeton,
 23.92.1.96/31,US,US-TX,Sherman,
 23.92.1.98/31,US,US-TX,San Antonio,
