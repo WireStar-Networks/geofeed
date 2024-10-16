@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-10-16T14:00:05.653511
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2024-10-16T15:00:05.218569
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -45,6 +45,10 @@
 23.92.1.170/31,US,US-TX,Conroe,
 23.92.1.172/31,US,US-TX,Huntsville,
 23.92.1.174/31,US,US-FL,Tampa,
+23.92.1.176/31,US,US-TX,Euless,
+23.92.1.178/31,US,US-TX,Euless,
+23.92.1.180/31,US,US-TX,Fort Worth,
+23.92.1.182/31,US,US-TX,Fort Worth,
 23.92.1.192/28,US,US-TX,Dallas,
 23.92.5.108/31,US,US-TX,Somerville,
 23.92.5.132/30,US,US-TX,College Station,
