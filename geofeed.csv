@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-01-14T10:00:05.765741
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-01-14T11:00:05.073727
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -15,6 +15,7 @@
 23.92.1.38/31,US,US-TX,Leander,
 23.92.1.40/31,US,US-TX,Crandall,
 23.92.1.42/31,US,US-TX,Forney,
+23.92.1.44/31,US,US-FL,Bradenton,
 23.92.1.64/30,US,US-GA,Fairburn,
 23.92.1.76/31,US,US-TX,Forney,
 23.92.1.78/31,US,US-TX,Lubbock,
