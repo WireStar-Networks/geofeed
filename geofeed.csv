@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-03-21T13:00:05.386404
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-03-21T14:00:05.802578
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -11,7 +11,6 @@
 23.92.1.12/31,US,US-TX,McKinney,
 23.92.1.14/31,US,US-NC,Raleigh,
 23.92.1.16/31,US,US-TX,Austin,
-23.92.1.32/30,US,US-NC,Charlotte,
 23.92.1.36/31,US,US-TX,Austin,
 23.92.1.38/31,US,US-TX,Leander,
 23.92.1.40/31,US,US-TX,Crandall,
@@ -76,7 +75,6 @@
 23.92.5.244/30,US,US-TX,Dallas,
 23.92.8.12/31,US,US-NC,Raleigh,
 23.92.8.14/31,US,US-FL,Daytona Beach,
-23.92.8.20/30,US,US-MA,Everett,
 23.92.8.32/31,US,US-NY,White Plains,
 23.92.8.34/31,US,US-TX,Tomball,
 23.92.8.36/31,US,US-TX,Houston,
@@ -91,7 +89,6 @@
 23.92.8.56/31,US,US-NC,Charlotte,
 23.92.8.58/31,US,US-FL,Orlando,
 23.92.8.60/31,US,US-NC,Charlotte,
-23.92.8.62/31,US,US-MA,Everett,
 23.92.8.64/31,US,US-FL,Venice,
 23.92.8.66/31,US,US-TX,Houston,
 23.92.8.68/31,US,US-PA,Coraopolis,
@@ -110,7 +107,6 @@
 23.92.12.120/29,US,US-TX,Tomball,
 23.92.12.128/29,US,US-TX,College Station,
 23.92.12.152/29,US,US-TX,Houston,
-23.92.12.176/29,US,US-TX,Fort Worth,
 23.92.12.192/29,US,US-TX,Huntsville,
 23.92.12.208/29,US,US-TX,Richmond,
 23.92.12.216/29,US,US-TX,San Antonio,
@@ -122,7 +118,6 @@
 23.92.13.208/28,US,US-TX,College Station,
 23.92.13.228/31,US,US-TX,College Station,
 23.92.13.230/31,US,US-TX,Somerville,
-23.92.13.232/29,US,US-TX,Hudson Oaks,
 23.92.15.8/30,US,US-TX,College Station,
 23.92.15.64/29,US,US-TX,Lewisville,
 23.92.15.80/30,US,US-TX,College Station,
