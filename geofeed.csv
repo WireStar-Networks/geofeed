@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-03-25T15:00:05.868061
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-03-25T16:00:05.867767
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -23,6 +23,7 @@
 23.92.1.64/31,US,US-FL,Zephyrhills,
 23.92.1.66/31,US,US-FL,Zephyrhills,
 23.92.1.72/31,US,US-TX,Austin,
+23.92.1.74/31,US,US-NC,Greensboro,
 23.92.1.76/31,US,US-TX,Forney,
 23.92.1.78/31,US,US-TX,Lubbock,
 23.92.1.84/31,US,US-TX,San Marcos,
