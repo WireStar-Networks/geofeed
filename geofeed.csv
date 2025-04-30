@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-04-30T12:00:06.151654
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-04-30T13:00:06.303465
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -112,7 +112,6 @@
 23.92.12.128/29,US,US-TX,College Station,
 23.92.12.192/29,US,US-TX,Huntsville,
 23.92.12.216/29,US,US-TX,San Antonio,
-23.92.12.224/29,US,US-TX,Richmond,
 23.92.13.128/29,US,US-TX,College Station,
 23.92.13.136/29,US,US-TX,Austin,
 23.92.13.152/31,US,US-TX,College Station,
