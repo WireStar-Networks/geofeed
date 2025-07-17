@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-07-17T09:00:04.813173
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-07-17T10:00:05.866722
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -44,6 +44,7 @@
 23.92.1.106/31,US,US-TN,Nashville,
 23.92.1.108/31,US,US-CO,Colorado Springs,
 23.92.1.110/31,US,US-TX,Irving,
+23.92.1.112/31,US,US-TX,Dallas,
 23.92.1.128/31,US,US-TX,Hudson Oaks,
 23.92.1.130/31,US,US-TX,Fort Worth,
 23.92.1.132/31,US,US-TX,Lewisville,
