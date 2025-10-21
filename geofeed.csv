@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-10-20T21:00:06.092226
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-10-20T22:00:06.312109
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.0/20,US,US-TX,Dallas,
@@ -15,6 +15,8 @@
 23.92.1.18/31,US,US-FL,Tampa,
 23.92.1.20/31,US,US-TX,Jarrell,
 23.92.1.22/31,US,US-TX,Jarrell,
+23.92.1.24/31,US,US-CA,San Diego,
+23.92.1.26/31,US,US-TX,San Marcos,
 23.92.1.28/31,US,US-TX,Fort Worth,
 23.92.1.30/31,US,US-TX,Fort Worth,
 23.92.1.32/31,US,US-IA,Iowa City,
@@ -28,6 +30,7 @@
 23.92.1.48/31,US,US-FL,Venice,
 23.92.1.50/31,US,US-FL,Venice,
 23.92.1.52/31,US,US-TX,San Marcos,
+23.92.1.54/31,US,US-TX,Fort Worth,
 23.92.1.56/29,US,US-TX,Marble Falls,
 23.92.1.64/31,US,US-FL,Zephyrhills,
 23.92.1.66/31,US,US-FL,Zephyrhills,
@@ -36,7 +39,10 @@
 23.92.1.74/31,US,US-NC,Greensboro,
 23.92.1.76/31,US,US-TX,Forney,
 23.92.1.78/31,US,US-TX,Lubbock,
+23.92.1.80/31,US,US-TX,Lockhart,
+23.92.1.82/31,US,US-TX,Belton,
 23.92.1.84/31,US,US-TX,San Marcos,
+23.92.1.86/31,US,US-CA,San Diego,
 23.92.1.90/31,US,US-CO,Denver,
 23.92.1.92/31,US,US-TX,Irving,
 23.92.1.94/31,US,US-TX,Princeton,
@@ -133,7 +139,7 @@
 23.92.12.32/29,US,US-TX,College Station,
 23.92.12.40/29,US,US-TX,Houston,
 23.92.12.56/29,US,US-TX,Spring,
-23.92.12.64/29,US,US-TX,San Antonio,
+23.92.12.64/29,US,US-TX,Austin,
 23.92.12.72/29,US,US-TX,Houston,
 23.92.12.80/29,US,US-TX,Somerville,
 23.92.12.88/29,US,US-TX,Houston,
@@ -142,6 +148,7 @@
 23.92.12.112/29,US,US-TX,Conroe,
 23.92.12.128/29,US,US-TX,College Station,
 23.92.12.192/29,US,US-TX,Huntsville,
+23.92.12.232/29,US,US-TX,Austin,
 23.92.13.128/29,US,US-TX,College Station,
 23.92.13.136/29,US,US-TX,Austin,
 23.92.13.152/31,US,US-TX,College Station,
