@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-10-20T22:00:06.312109
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-10-20T23:00:08.186299
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.0/20,US,US-TX,Dallas,
@@ -43,6 +43,7 @@
 23.92.1.82/31,US,US-TX,Belton,
 23.92.1.84/31,US,US-TX,San Marcos,
 23.92.1.86/31,US,US-CA,San Diego,
+23.92.1.88/31,US,US-TX,Corpus Christi,
 23.92.1.90/31,US,US-CO,Denver,
 23.92.1.92/31,US,US-TX,Irving,
 23.92.1.94/31,US,US-TX,Princeton,
@@ -110,9 +111,11 @@
 23.92.5.248/29,US,US-TX,Clifton,
 23.92.8.0/30,US,US-TX,Tomball,
 23.92.8.4/31,US,US-FL,Wesley Chapel,
+23.92.8.8/30,US,US-TX,Fresno,
 23.92.8.12/31,US,US-NC,Raleigh,
 23.92.8.14/31,US,US-FL,Daytona Beach,
 23.92.8.16/30,US,US-FL,Orlando,
+23.92.8.24/30,US,US-TX,Spring,
 23.92.8.32/31,US,US-NY,White Plains,
 23.92.8.34/31,US,US-TX,Tomball,
 23.92.8.36/31,US,US-TX,Houston,
