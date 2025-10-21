@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-10-20T18:00:05.098030
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-10-20T19:00:05.410934
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.0/20,US,US-TX,Dallas,
@@ -28,13 +28,16 @@
 23.92.1.48/31,US,US-FL,Venice,
 23.92.1.50/31,US,US-FL,Venice,
 23.92.1.52/31,US,US-TX,San Marcos,
+23.92.1.56/29,US,US-TX,Marble Falls,
 23.92.1.64/31,US,US-FL,Zephyrhills,
 23.92.1.66/31,US,US-FL,Zephyrhills,
+23.92.1.68/30,US,US-TN,Nashville,
 23.92.1.72/31,US,US-TX,Austin,
 23.92.1.74/31,US,US-NC,Greensboro,
 23.92.1.76/31,US,US-TX,Forney,
 23.92.1.78/31,US,US-TX,Lubbock,
 23.92.1.84/31,US,US-TX,San Marcos,
+23.92.1.90/31,US,US-CO,Denver,
 23.92.1.94/31,US,US-TX,Princeton,
 23.92.1.96/31,US,US-TX,Sherman,
 23.92.1.98/31,US,US-TX,San Antonio,
@@ -65,7 +68,7 @@
 23.92.1.146/31,US,US-TX,Houston,
 23.92.1.148/31,US,US-GA,Fairburn,
 23.92.1.150/31,US,US-TX,Lubbock,
-23.92.1.152/31,US,US-GA,Fairburn,
+23.92.1.152/31,US,US-TN,Nashville,
 23.92.1.154/31,US,US-TX,Dallas,
 23.92.1.156/31,US,US-TX,Houston,
 23.92.1.158/31,US,US-TX,San Antonio,
@@ -97,6 +100,8 @@
 23.92.5.176/28,US,US-TX,College Station,
 23.92.5.240/30,US,US-TX,Dallas,
 23.92.5.244/30,US,US-TX,Dallas,
+23.92.5.248/29,US,US-TX,Clifton,
+23.92.8.0/30,US,US-TX,Tomball,
 23.92.8.4/31,US,US-FL,Wesley Chapel,
 23.92.8.12/31,US,US-NC,Raleigh,
 23.92.8.14/31,US,US-FL,Daytona Beach,
