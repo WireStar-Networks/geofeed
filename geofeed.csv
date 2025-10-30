@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-10-30T08:00:06.251761
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2025-10-30T09:00:06.248004
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -94,6 +94,7 @@
 23.92.1.184/31,US,US-TX,Spring,
 23.92.1.186/31,US,US-TX,Houston,
 23.92.1.188/31,US,US-TX,Austin,
+23.92.1.190/31,US,US-NC,Charlotte,
 23.92.1.192/28,US,US-TX,Dallas,
 23.92.2.0/24,US,US-GA,Atlanta,
 23.92.3.2/31,US,US-NC,Charlotte,
