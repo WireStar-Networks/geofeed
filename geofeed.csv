@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2026-02-09T12:00:06.907697
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2026-02-09T13:00:07.827621
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -188,6 +188,7 @@
 2604:e280::/28,US,US-TX,Dallas,
 2604:e280:8600::/47,US,US-DC,Washington,
 2604:e280:8800::/47,US,US-FL,Daytona Beach,
+2604:e280:9400::/47,US,US-NC,Charlotte,
 2604:e280:a00f::/48,,,,
 2604:e280:a180::/48,US,US-TX,College Station,
 2604:e283::/47,US,US-DC,Washington,
@@ -195,5 +196,7 @@
 2604:e283:2::/47,US,US-FL,Daytona Beach,
 2604:e283:2::/48,US,US-FL,Daytona Beach,
 2604:e283:3::/48,US,US-FL,Daytona Beach,
+2604:e283:4::/47,US,US-NC,Charlotte,
 2604:e28c::/38,US,US-DC,Washington,
 2604:e28c:400::/38,US,US-FL,Daytona Beach,
+2604:e28c:800::/38,US,US-NC,Charlotte,
