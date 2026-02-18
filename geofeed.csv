@@ -1,4 +1,4 @@
-#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2026-02-18T14:00:06.273858
+#Generated with GeoBox (https://github.com/FrumentumNL/GeoBox) on 2026-02-18T15:00:06.857742
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.68/31,US,US-TX,Dallas,
@@ -119,6 +119,7 @@
 23.92.8.0/30,US,US-TX,Tomball,
 23.92.8.4/31,US,US-FL,Wesley Chapel,
 23.92.8.6/31,US,US-TX,Plano,
+23.92.8.10/31,US,US-NC,Charlotte,
 23.92.8.12/31,US,US-NC,Raleigh,
 23.92.8.14/31,US,US-FL,Daytona Beach,
 23.92.8.16/30,US,US-FL,Orlando,
