@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-03-30T09:00:09.465222
+#Generated with Nautobot Geofeed Generator on 2026-03-30T10:00:11.995999
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -254,6 +254,7 @@
 2604:e280:a101:200c::/64,US,US-TX,College Station,
 2604:e280:a101:2300::/56,US,US-TX,College Station,
 2604:e280:a101:2300::/64,US,US-TX,College Station,
+2604:e280:c2a0::/47,US,US-AZ,Pinal County,
 2604:e283::/47,US,US-DC,Washington,
 2604:e283::/48,US,US-DC,Washington,
 2604:e283:1::/48,US,US-DC,Washington,
@@ -265,6 +266,10 @@
 2604:e283:5::/48,US,US-NC,Charlotte,
 2604:e283:6::/48,US,US-VA,Reston,
 2604:e283:7::/48,US,US-VA,Reston,
+2604:e283:a::/47,US,US-AZ,Pinal County,
+2604:e283:a::/48,US,US-AZ,Pinal County,
+2604:e283:b::/48,US,US-AZ,Pinal County,
 2604:e28c::/38,US,US-DC,Washington,
 2604:e28c:400::/38,US,US-FL,Daytona Beach,
 2604:e28c:800::/38,US,US-NC,Charlotte,
+2604:e28e::/38,US,US-AZ,Pinal County,
