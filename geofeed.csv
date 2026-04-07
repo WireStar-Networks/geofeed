@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-04-07T15:00:11.662527
+#Generated with Nautobot Geofeed Generator on 2026-04-07T16:00:20.872442
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -214,6 +214,7 @@
 2604:e280:a001:103::/64,US,US-TX,Dallas,
 2604:e280:a001:3000::/52,US,US-TX,Dallas,
 2604:e280:a001:3000::/56,US,US-TX,Dallas,
+2604:e280:a001:3000::/64,US,US-TX,Dallas,
 2604:e280:a001:3100::/56,US,US-TX,Dallas,
 2604:e280:a001:3100::/64,US,US-NC,Charlotte,
 2604:e280:a001:8000::/52,US,US-TX,Dallas,
@@ -228,6 +229,7 @@
 2604:e280:a081::/56,US,US-TX,Houston,
 2604:e280:a081::/64,US,US-TX,Houston,
 2604:e280:a0a2::/47,US,US-TX,College Station,
+2604:e280:a0b0::/47,US,US-TX,Euless,
 2604:e280:a100:2::1/128,US,US-TX,College Station,
 2604:e280:a100:2::3/128,US,US-TX,College Station,
 2604:e280:a100:2::4/128,US,US-TX,College Station,
@@ -280,8 +282,12 @@
 2604:e283:a::/47,US,US-AZ,Pinal County,
 2604:e283:a::/48,US,US-AZ,Pinal County,
 2604:e283:b::/48,US,US-AZ,Pinal County,
+2604:e283:c::/47,US,US-TX,Euless,
+2604:e283:c::/48,US,US-TX,Euless,
+2604:e283:d::/48,US,US-TX,Euless,
 2604:e28c::/38,US,US-DC,Washington,
 2604:e28c:400::/38,US,US-FL,Daytona Beach,
 2604:e28c:800::/38,US,US-NC,Charlotte,
 2604:e28c:1400::/38,US,US-TX,College Station,
+2604:e28c:1800::/38,US,US-TX,Euless,
 2604:e28e::/38,US,US-AZ,Pinal County,
