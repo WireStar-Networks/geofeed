@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-04-28T11:00:11.345431
+#Generated with Nautobot Geofeed Generator on 2026-04-28T12:00:19.387240
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -158,6 +158,7 @@
 23.92.8.100/30,US,US-TX,Dallas,
 23.92.8.104/31,US,US-TX,Austin,
 23.92.8.108/31,US,US-NC,Charlotte,
+23.92.8.110/31,US,US-TX,Denton County,
 23.92.9.0/24,US,US-DC,Washington,
 23.92.12.0/28,US,US-TX,Houston,
 23.92.12.24/29,US,US-TX,College Station,
