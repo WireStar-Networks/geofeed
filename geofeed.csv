@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-05-14T16:00:15.099960
+#Generated with Nautobot Geofeed Generator on 2026-05-14T17:00:20.051281
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -241,6 +241,7 @@
 2604:e280:a081::/56,US,US-TX,Houston,
 2604:e280:a081::/64,US,US-TX,Houston,
 2604:e280:a0a2::/47,US,US-TX,College Station,
+2604:e280:a0a4::/47,US,US-TX,College Station,
 2604:e280:a0b0::/47,US,US-TX,Euless,
 2604:e280:a100:2::1/128,US,US-TX,College Station,
 2604:e280:a100:2::3/128,US,US-TX,College Station,
@@ -274,6 +275,7 @@
 2604:e280:a101:2200::/64,US,US-TX,College Station,
 2604:e280:a101:2300::/56,US,US-TX,College Station,
 2604:e280:a101:2300::/64,US,US-TX,College Station,
+2604:e280:a101:2400::/64,US,US-TX,College Station,
 2604:e280:a180::/44,US,US-TX,College Station,
 2604:e280:a180::/47,US,US-TX,College Station,
 2604:e280:a180::/48,US,US-TX,College Station,
@@ -298,10 +300,14 @@
 2604:e283:c::/47,US,US-TX,Euless,
 2604:e283:c::/48,US,US-TX,Euless,
 2604:e283:d::/48,US,US-TX,Euless,
+2604:e283:e::/47,US,US-TX,College Station,
+2604:e283:e::/48,US,US-TX,College Station,
+2604:e283:f::/48,US,US-TX,College Station,
 2604:e28c::/38,US,US-DC,Washington,
 2604:e28c:400::/38,US,US-FL,Daytona Beach,
 2604:e28c:800::/38,US,US-NC,Charlotte,
 2604:e28c:c00::/38,US,US-VA,Reston,
 2604:e28c:1400::/38,US,US-TX,College Station,
 2604:e28c:1800::/38,US,US-TX,Euless,
+2604:e28c:1c00::/38,US,US-TX,College Station,
 2604:e28e::/38,US,US-AZ,Pinal County,
