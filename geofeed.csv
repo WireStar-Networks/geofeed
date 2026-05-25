@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-05-25T08:00:20.964140
+#Generated with Nautobot Geofeed Generator on 2026-05-25T09:02:38.728060
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -365,6 +365,11 @@
 2604:e283:28::/47,US,US-TX,Harris County,
 2604:e283:28::/48,US,US-TX,Harris County,
 2604:e283:29::/48,US,US-TX,Harris County,
+2604:e283:2e::/47,US,US-TX,Houston,
+2604:e283:2e::/48,US,US-TX,Houston,
+2604:e283:2f::/48,US,US-TX,Houston,
+2604:e283:30::/48,US,US-TX,Houston,
+2604:e283:31::/48,US,US-TX,Houston,
 2604:e28c::/38,US,US-DC,Washington,
 2604:e28c:400::/38,US,US-FL,Daytona Beach,
 2604:e28c:800::/38,US,US-NC,Charlotte,
@@ -385,4 +390,6 @@
 2604:e28c:4800::/38,US,US-TX,Houston,
 2604:e28c:4c00::/38,US,US-TX,Harris County,
 2604:e28c:5000::/38,US,US-TX,Harris County,
+2604:e28c:5c00::/38,US,US-TX,Houston,
+2604:e28c:6000::/38,US,US-TX,Houston,
 2604:e28e::/38,US,US-AZ,Pinal County,
