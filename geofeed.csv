@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-05-26T16:00:19.154984
+#Generated with Nautobot Geofeed Generator on 2026-05-26T17:00:23.325424
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -111,6 +111,7 @@
 23.92.5.24/29,US,US-TX,College Station,
 23.92.5.88/30,US,US-TX,College Station,
 23.92.5.104/31,US,US-TX,College Station,
+23.92.5.106/31,US,US-TX,College Station,
 23.92.5.108/31,US,US-TX,Burleson County,
 23.92.5.132/30,US,US-TX,College Station,
 23.92.5.160/28,US,US-TX,College Station,
