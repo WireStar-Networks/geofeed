@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-05-26T20:00:27.125817
+#Generated with Nautobot Geofeed Generator on 2026-05-26T21:00:18.835040
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -274,6 +274,9 @@
 2604:e280:a0dc::/47,US,US-TX,Houston,
 2604:e280:a0de::/47,US,US-TX,Houston,
 2604:e280:a0e0::/47,US,US-TX,Houston,
+2604:e280:a0e2::/47,US,US-TX,Houston,
+2604:e280:a0e4::/47,US,US-TX,Houston,
+2604:e280:a0e6::/47,US,US-TX,Houston,
 2604:e280:a100:2::1/128,US,US-TX,College Station,
 2604:e280:a100:2::3/128,US,US-TX,College Station,
 2604:e280:a100:2::4/128,US,US-TX,College Station,
@@ -401,6 +404,14 @@
 2604:e283:38::/47,US,US-TX,Houston,
 2604:e283:38::/48,US,US-TX,Houston,
 2604:e283:39::/48,US,US-TX,Houston,
+2604:e283:3a::/48,US,US-TX,Houston,
+2604:e283:3b::/48,US,US-TX,Houston,
+2604:e283:3c::/47,US,US-TX,Houston,
+2604:e283:3c::/48,US,US-TX,Houston,
+2604:e283:3d::/48,US,US-TX,Houston,
+2604:e283:3e::/47,US,US-TX,Houston,
+2604:e283:3e::/48,US,US-TX,Houston,
+2604:e283:3f::/48,US,US-TX,Houston,
 2604:e28c::/38,US,US-DC,Washington,
 2604:e28c:400::/38,US,US-FL,Daytona Beach,
 2604:e28c:800::/38,US,US-NC,Charlotte,
@@ -429,4 +440,7 @@
 2604:e28c:6800::/38,US,US-TX,Houston,
 2604:e28c:6c00::/38,US,US-TX,Houston,
 2604:e28c:7000::/38,US,US-TX,Houston,
+2604:e28c:7400::/38,US,US-TX,Houston,
+2604:e28c:7800::/38,US,US-TX,Houston,
+2604:e28c:7c00::/38,US,US-TX,Houston,
 2604:e28e::/38,US,US-AZ,Pinal County,
