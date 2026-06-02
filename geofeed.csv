@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-06-02T12:00:23.943850
+#Generated with Nautobot Geofeed Generator on 2026-06-02T13:00:23.618020
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -281,6 +281,7 @@
 2604:e280:a0ec::/47,US,US-TX,Fort Bend County,
 2604:e280:a0ee::/47,US,US-TX,Harris County,
 2604:e280:a0f0::/47,US,US-TX,Travis County,
+2604:e280:a0f2::/47,US,US-TX,San Marcos,
 2604:e280:a100:2::1/128,US,US-TX,College Station,
 2604:e280:a100:2::3/128,US,US-TX,College Station,
 2604:e280:a100:2::4/128,US,US-TX,College Station,
@@ -431,6 +432,9 @@
 2604:e283:48::/47,US,US-TX,Travis County,
 2604:e283:48::/48,US,US-TX,Travis County,
 2604:e283:49::/48,US,US-TX,Travis County,
+2604:e283:4a::/47,US,US-TX,San Marcos,
+2604:e283:4a::/48,US,US-TX,San Marcos,
+2604:e283:4b::/48,US,US-TX,San Marcos,
 2604:e28c::/38,US,US-DC,Washington,
 2604:e28c:400::/38,US,US-FL,Daytona Beach,
 2604:e28c:800::/38,US,US-NC,Charlotte,
@@ -467,4 +471,5 @@
 2604:e28c:8800::/38,US,US-TX,Fort Bend County,
 2604:e28c:8c00::/38,US,US-TX,Harris County,
 2604:e28c:9000::/38,US,US-TX,Travis County,
+2604:e28c:9400::/38,US,US-TX,San Marcos,
 2604:e28e::/38,US,US-AZ,Pinal County,
