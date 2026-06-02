@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-06-02T08:00:17.294946
+#Generated with Nautobot Geofeed Generator on 2026-06-02T09:00:23.459898
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -277,6 +277,9 @@
 2604:e280:a0e4::/47,US,US-TX,Houston,
 2604:e280:a0e6::/47,US,US-TX,Houston,
 2604:e280:a0e8::/47,US,US-TX,Fort Bend County,
+2604:e280:a0ea::/47,US,US-TX,Harris County,
+2604:e280:a0ec::/47,US,US-TX,Fort Bend County,
+2604:e280:a0ee::/47,US,US-TX,Harris County,
 2604:e280:a100:2::1/128,US,US-TX,College Station,
 2604:e280:a100:2::3/128,US,US-TX,College Station,
 2604:e280:a100:2::4/128,US,US-TX,College Station,
@@ -415,6 +418,13 @@
 2604:e283:40::/47,US,US-TX,Fort Bend County,
 2604:e283:40::/48,US,US-TX,Fort Bend County,
 2604:e283:41::/48,US,US-TX,Fort Bend County,
+2604:e283:42::/47,US,US-TX,Harris County,
+2604:e283:42::/48,US,US-TX,Harris County,
+2604:e283:43::/48,US,US-TX,Harris County,
+2604:e283:44::/47,US,US-TX,Fort Bend County,
+2604:e283:44::/48,US,US-TX,Fort Bend County,
+2604:e283:45::/48,US,US-TX,Fort Bend County,
+2604:e283:46::/47,US,US-TX,Harris County,
 2604:e28c::/38,US,US-DC,Washington,
 2604:e28c:400::/38,US,US-FL,Daytona Beach,
 2604:e28c:800::/38,US,US-NC,Charlotte,
@@ -447,4 +457,7 @@
 2604:e28c:7800::/38,US,US-TX,Houston,
 2604:e28c:7c00::/38,US,US-TX,Houston,
 2604:e28c:8000::/38,US,US-TX,Fort Bend County,
+2604:e28c:8400::/38,US,US-TX,Harris County,
+2604:e28c:8800::/38,US,US-TX,Fort Bend County,
+2604:e28c:8c00::/38,US,US-TX,Harris County,
 2604:e28e::/38,US,US-AZ,Pinal County,
