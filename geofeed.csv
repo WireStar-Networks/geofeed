@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-06-03T13:00:17.093463
+#Generated with Nautobot Geofeed Generator on 2026-06-03T14:00:22.777795
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -128,7 +128,6 @@
 23.92.8.16/30,US,US-FL,Orange County,
 23.92.8.20/31,US,US-TX,Austin,
 23.92.8.22/31,US,US-TX,Austin,
-23.92.8.24/30,US,US-TX,Harris County,
 23.92.8.28/31,US,US-TX,Harris County,
 23.92.8.30/31,US,US-TX,Harris County,
 23.92.8.32/31,US,US-NY,City of White Plains,
@@ -167,12 +166,10 @@
 23.92.9.0/24,US,US-DC,Washington,
 23.92.12.0/28,US,US-TX,Houston,
 23.92.12.40/29,US,US-TX,Houston,
-23.92.12.56/29,US,US-TX,Harris County,
 23.92.12.64/29,US,US-TX,Austin,
 23.92.12.72/29,US,US-TX,Houston,
 23.92.12.88/29,US,US-TX,Houston,
 23.92.12.96/29,US,US-TX,Austin,
-23.92.12.104/29,US,US-TX,The Woodlands,
 23.92.12.112/29,US,US-TX,The Woodlands,
 23.92.12.128/29,US,US-TX,College Station,
 23.92.12.192/29,US,US-TX,Huntsville,
