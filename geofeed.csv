@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-06-08T14:00:21.545406
+#Generated with Nautobot Geofeed Generator on 2026-06-08T15:00:23.060352
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -414,6 +414,7 @@
 2604:e283:38::/47,US,US-TX,Houston,
 2604:e283:38::/48,US,US-TX,Houston,
 2604:e283:39::/48,US,US-TX,Houston,
+2604:e283:3a::/47,US,US-TX,Houston,
 2604:e283:3a::/48,US,US-TX,Houston,
 2604:e283:3b::/48,US,US-TX,Houston,
 2604:e283:3c::/47,US,US-TX,Houston,
