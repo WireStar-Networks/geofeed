@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-06-15T14:00:24.677948
+#Generated with Nautobot Geofeed Generator on 2026-06-15T15:00:25.950795
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -226,7 +226,6 @@
 2604:e280:a001:103::/64,US,US-TX,Dallas,
 2604:e280:a001:3000::/52,US,US-TX,Dallas,
 2604:e280:a001:3000::/56,US,US-TX,Dallas,
-2604:e280:a001:3000::/64,US,US-TX,Dallas,
 2604:e280:a001:3001::/64,US,US-TX,The Woodlands,
 2604:e280:a001:3015::/64,US,US-TX,Austin,
 2604:e280:a001:3016::/64,US,US-TX,San Antonio,
