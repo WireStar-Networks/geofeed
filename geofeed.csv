@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-06-16T11:00:28.852568
+#Generated with Nautobot Geofeed Generator on 2026-06-16T12:00:19.559931
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -241,6 +241,7 @@
 2604:e280:a001:3020::/64,US,US-TX,Hudson Oaks,
 2604:e280:a001:3021::/64,US,US-TX,Mansfield,
 2604:e280:a001:3023::/64,US,US-TX,Denton County,
+2604:e280:a001:3024::/64,US,US-TX,Corinth,
 2604:e280:a001:3100::/56,US,US-TX,Dallas,
 2604:e280:a001:3100::/64,US,US-NC,Charlotte,
 2604:e280:a001:3101::/64,US,US-TX,Harris County,
@@ -366,6 +367,7 @@
 2604:e280:a14a::/47,US,US-TX,Hudson Oaks,
 2604:e280:a14c::/47,US,US-TX,Mansfield,
 2604:e280:a150::/47,US,US-TX,Denton County,
+2604:e280:a152::/47,US,US-TX,Corinth,
 2604:e280:a180::/44,US,US-TX,College Station,
 2604:e280:a180::/47,US,US-TX,College Station,
 2604:e280:a180::/48,US,US-TX,College Station,
@@ -579,6 +581,9 @@
 2604:e283:8a::/47,US,US-TX,Denton County,
 2604:e283:8a::/48,US,US-TX,Denton County,
 2604:e283:8b::/48,US,US-TX,Denton County,
+2604:e283:8c::/47,US,US-TX,Corinth,
+2604:e283:8c::/48,US,US-TX,Corinth,
+2604:e283:8d::/48,US,US-TX,Corinth,
 2604:e28c::/38,US,US-DC,Washington,
 2604:e28c:400::/38,US,US-FL,Daytona Beach,
 2604:e28c:800::/38,US,US-NC,Charlotte,
@@ -648,4 +653,5 @@
 2604:e28d:c00::/38,US,US-TX,Hudson Oaks,
 2604:e28d:1000::/38,US,US-TX,Mansfield,
 2604:e28d:1800::/38,US,US-TX,Denton County,
+2604:e28d:1c00::/38,US,US-TX,Corinth,
 2604:e28e::/38,US,US-AZ,Pinal County,
