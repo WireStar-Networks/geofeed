@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-06-25T15:00:28.372196
+#Generated with Nautobot Geofeed Generator on 2026-06-25T16:00:35.245510
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -95,6 +95,7 @@
 23.92.1.190/31,US,US-NC,Charlotte,
 23.92.1.192/28,US,US-TX,Dallas,
 23.92.1.208/28,US,US-TX,Dallas,
+23.92.1.224/31,US,US-TX,Lewisville,
 23.92.1.226/31,US,US-PA,Pittsburgh,
 23.92.1.228/31,US,US-TX,Fort Worth,
 23.92.1.230/31,US,US-TX,Harris County,
