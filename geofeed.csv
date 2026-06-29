@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-06-29T09:00:16.522023
+#Generated with Nautobot Geofeed Generator on 2026-06-29T10:00:30.082333
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -390,6 +390,7 @@
 2604:e280:a15a::/47,US,US-TX,Irving,
 2604:e280:a15c::/47,US,US-TX,Dallas,
 2604:e280:a15e::/47,US,US-TX,Dallas,
+2604:e280:a160::/47,US,US-TX,Dallas,
 2604:e280:a162::/47,US,US-TX,Collin County,
 2604:e280:a164::/47,US,US-TX,Dallas,
 2604:e280:a166::/47,US,US-TX,Fort Worth,
@@ -634,6 +635,9 @@
 2604:e283:9a::/47,US,US-TX,Dallas,
 2604:e283:9a::/48,US,US-TX,Dallas,
 2604:e283:9b::/48,US,US-TX,Dallas,
+2604:e283:9c::/47,US,US-TX,Dallas,
+2604:e283:9c::/48,US,US-TX,Dallas,
+2604:e283:9d::/48,US,US-TX,Dallas,
 2604:e283:9e::/47,US,US-TX,Collin County,
 2604:e283:9e::/48,US,US-TX,Collin County,
 2604:e283:9f::/48,US,US-TX,Collin County,
@@ -732,6 +736,7 @@
 2604:e28d:2c00::/38,US,US-TX,Irving,
 2604:e28d:3000::/38,US,US-TX,Dallas,
 2604:e28d:3400::/38,US,US-TX,Dallas,
+2604:e28d:3800::/38,US,US-TX,Dallas,
 2604:e28d:3c00::/38,US,US-TX,Collin County,
 2604:e28d:4000::/38,US,US-TX,Dallas,
 2604:e28d:4400::/38,US,US-TX,Fort Worth,
