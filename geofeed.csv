@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-06-29T19:00:19.262305
+#Generated with Nautobot Geofeed Generator on 2026-06-29T20:00:28.611696
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -352,7 +352,6 @@
 2604:e280:a100:2::b/128,US,US-TX,College Station,
 2604:e280:a100:2::c/128,US,US-TX,College Station,
 2604:e280:a100:2::d/128,US,US-TX,Bryan,
-2604:e280:a100:2::e/127,US,US-TX,College Station,
 2604:e280:a100:2::e/128,US,US-TX,College Station,
 2604:e280:a101:2000::/56,US,US-TX,College Station,
 2604:e280:a101:2000::/64,US,US-TX,College Station,
