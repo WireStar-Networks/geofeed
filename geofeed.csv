@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-07-10T15:00:34.164863
+#Generated with Nautobot Geofeed Generator on 2026-07-10T16:00:19.694604
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -126,7 +126,6 @@
 23.92.8.8/31,US,US-TX,Princeton,
 23.92.8.10/31,US,US-NC,Charlotte,
 23.92.8.12/31,US,US-NC,Wake County,
-23.92.8.14/31,US,US-FL,Daytona Beach,
 23.92.8.16/30,US,US-FL,Orange County,
 23.92.8.20/31,US,US-TX,Austin,
 23.92.8.22/31,US,US-TX,Austin,
@@ -309,7 +308,6 @@
 2604:e280:a001:311b::/64,US,US-FL,Sarasota County,
 2604:e280:a001:311c::/64,US,US-FL,Manatee County,
 2604:e280:a001:311d::/64,US,US-FL,Tampa,
-2604:e280:a001:311e::/64,US,US-FL,Daytona Beach,
 2604:e280:a001:311f::/64,US,US-FL,Daytona Beach,
 2604:e280:a001:3120::/64,US,US-FL,Sarasota County,
 2604:e280:a001:3121::/64,US,US-FL,Hillsborough County,
