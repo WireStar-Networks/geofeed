@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-07-10T18:00:30.387750
+#Generated with Nautobot Geofeed Generator on 2026-07-10T19:00:32.554295
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -211,7 +211,22 @@
 68.68.246.44/31,US,US-AL,Huntsville,
 68.68.246.46/31,US,US-AL,Huntsville,
 68.68.246.48/31,US,US-FL,Daytona Beach,
+68.68.246.50/31,US,US-FL,Pasco County,
 68.68.246.52/31,US,US-FL,Tampa,
+68.68.246.54/31,US,US-GA,Union City,
+68.68.246.56/31,US,US-TN,Nashville,
+68.68.246.58/31,US,US-TN,Nashville,
+68.68.246.60/31,US,US-PA,Pittsburgh,
+68.68.246.62/31,US,US-FL,Orange County,
+68.68.246.64/31,US,US-FL,Daytona Beach,
+68.68.246.66/31,US,US-FL,Cape Coral,
+68.68.246.68/31,US,US-FL,Sarasota County,
+68.68.246.70/31,US,US-FL,Lee County,
+68.68.246.72/31,US,US-NC,Charlotte,
+68.68.246.74/31,US,US-NC,Charlotte,
+68.68.246.76/31,US,US-NC,Wake County,
+68.68.246.78/31,US,US-NY,City of White Plains,
+68.68.246.80/31,US,US-PA,Findlay Township,
 68.68.247.0/24,US,US-GA,Atlanta,
 2604:e280::/28,US,US-TX,Dallas,
 2604:e280:80a0::/47,US,US-AL,Huntsville,
