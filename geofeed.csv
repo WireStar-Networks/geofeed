@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-07-18T16:00:27.461203
+#Generated with Nautobot Geofeed Generator on 2026-07-18T17:00:32.422920
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -172,7 +172,6 @@
 23.92.12.64/29,US,US-TX,Austin,
 23.92.12.72/29,US,US-TX,Houston,
 23.92.12.88/29,US,US-TX,Houston,
-23.92.12.96/29,US,US-TX,Austin,
 23.92.12.112/29,US,US-TX,The Woodlands,
 23.92.12.128/29,US,US-TX,College Station,
 23.92.12.192/29,US,US-TX,Huntsville,
