@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-07-27T17:00:38.407795
+#Generated with Nautobot Geofeed Generator on 2026-07-27T18:00:42.101722
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -344,6 +344,7 @@
 2604:e280:a001:303c::/64,US,US-IA,Iowa City,
 2604:e280:a001:303d::/64,US,US-CO,Denver,
 2604:e280:a001:303e::/64,US,US-CA,San Diego,
+2604:e280:a001:303f::/64,US,US-TX,Haltom City,
 2604:e280:a001:3100::/56,US,US-TX,Dallas,
 2604:e280:a001:3100::/64,US,US-NC,Charlotte,
 2604:e280:a001:3101::/64,US,US-TX,Harris County,
@@ -514,6 +515,7 @@
 2604:e280:a180::/47,US,US-TX,College Station,
 2604:e280:a180::/48,US,US-TX,College Station,
 2604:e280:a190::/47,US,US-TX,Fort Worth,
+2604:e280:a192::/47,US,US-TX,Haltom City,
 2604:e280:a1a0::/47,US,US-TX,Huntsville,
 2604:e280:a1a2::/47,US,US-TX,College Station,
 2604:e280:a1a4::/47,US,US-TX,Huntsville,
@@ -1007,6 +1009,9 @@
 2604:e283:13a::/47,US,US-TX,College Station,
 2604:e283:13a::/48,US,US-TX,College Station,
 2604:e283:13b::/48,US,US-TX,College Station,
+2604:e283:13c::/47,US,US-TX,Haltom City,
+2604:e283:13c::/48,US,US-TX,Haltom City,
+2604:e283:13d::/48,US,US-TX,Haltom City,
 2604:e288::/38,US,US-NY,City of White Plains,
 2604:e288:400::/38,US,US-PA,York Township,
 2604:e288:800::/38,US,US-PA,Findlay Township,
@@ -1149,6 +1154,7 @@
 2604:e28d:f000::/38,US,US-TX,College Station,
 2604:e28d:f400::/38,US,US-TX,Huntsville,
 2604:e28d:f800::/38,US,US-TX,College Station,
+2604:e28d:fc00::/38,US,US-TX,Haltom City,
 2604:e28e::/38,US,US-AZ,Pinal County,
 2604:e28e:400::/38,US,US-CO,Aurora,
 2604:e28e:800::/38,US,US-CO,Aurora,
