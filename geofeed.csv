@@ -1,4 +1,4 @@
-#Generated with Nautobot Geofeed Generator on 2026-08-04T13:00:25.068333
+#Generated with Nautobot Geofeed Generator on 2026-08-04T14:00:35.890194
 #RFC8805-For-AS62646
 #prefix,country_code,region_code,city
 23.92.0.128/26,US,US-TX,Waller County,
@@ -157,6 +157,7 @@
 23.92.8.96/30,US,US-TX,Dallas,
 23.92.8.100/30,US,US-TX,Dallas,
 23.92.8.104/31,US,US-TX,Austin,
+23.92.8.106/31,US,US-TX,Harris County,
 23.92.8.108/31,US,US-NC,Charlotte,
 23.92.8.110/31,US,US-TX,Denton County,
 23.92.8.112/31,US,US-CO,Denver,
